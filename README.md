@@ -13,8 +13,8 @@ CustomModule.getModuleList((error, list) => {
       console.log(list)
       //array list returned [...] 
   }
-  });
-}
+});
+
 ```
 ## Mostly Automatic Install
 
