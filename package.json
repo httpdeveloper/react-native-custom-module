@@ -1,0 +1,20 @@
+{
+  "name": "react-native-custom-module",
+  "version": "0.0.1",
+  "description": "React Native Custom Module Boilerplate for IOS and Android",
+  "license": "MIT",
+  "main": "index.js",
+  "author": {
+    "name": "Dinesh Maharjan",
+    "email": "httpdeveloper@gmail.com",
+    "url": "https://github.com/httpdeveloper"
+  },
+  "bugs": {
+    "url": "https://github.com/httpdeveloper/react-native-custom-module/issues"
+  },
+  "homepage": "https://github.com/httpdeveloper/react-native-custom-module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/httpdeveloper/react-native-custom-module"
+  }
+}
