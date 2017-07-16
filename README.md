@@ -63,5 +63,9 @@ CustomModule.getModuleList((error, list) => {
         ...
    }
  ```
+
+# Article
+[Article](https://medium.com/@httpdeveloper/how-to-build-a-simple-react-native-custom-module-for-ios-and-android-from-scratch-a8efd31446f0) about custom module development in React Native on medium.com
+
 # License
 MIT
