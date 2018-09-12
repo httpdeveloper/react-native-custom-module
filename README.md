@@ -2,7 +2,7 @@
 React Native Custom Module Boilerplate
 
 ## Usage
- getModuleList() fetches list of native modules. This is only boilerplate implementation to build native module in React Natve.
+ getModuleList() fetches list of native modules. This is only boilerplate implementation to build native module in React Native.
 ```
 import CustomModule from 'react-native-custom-module';
 
